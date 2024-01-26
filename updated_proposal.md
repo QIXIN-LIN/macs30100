@@ -4,9 +4,9 @@
 
 ### Q1.2 research question 1
 - How might the incorporation of artificial intelligence into gig economy platforms influence the prevalence of discrimination faced by service providers - will it serve to mitigate discrimination, or might it amplify it?
- - related paper title: link to the paper
- - related paper title: link to the paper
- - related paper title: link to the paper
+ - **Inequality and discrimination in the online labor market: A scoping review**: [link to the paper](https://journals-sagepub-com.proxy.uchicago.edu/share/VEPU5GK3GMYTAPG4HBXJ?target=10.1177/14614448221151200)
+ - **Bias in Online Freelance Marketplaces: Evidence from TaskRabbit and Fiverr**: [link to the paper](https://dl.acm.org/doi/10.1145/2998181.2998327)
+ - **Racial Discrimination in the Sharing Economy: Evidence from a Field Experiment**: [link to the paper](https://www.aeaweb.org/articles?id=10.1257/app.20160213)
 
 ## Q2 Formulate as ML task
 ### Q2.1 Is it supervised or unsupervised learning?
