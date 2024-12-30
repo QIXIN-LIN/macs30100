@@ -2,8 +2,6 @@
 
 This is my personal repository for the **MACS30100 Perspectives on Computational Modeling** course in Winter 2024. It contains all the notebooks, assignments, quizzes, and project files I’ve worked on throughout the course. This repository serves as a centralized space for my learning journey and project work.
 
----
-
 ## Repository Structure  
 
 ### 1. `class-notebook`  
@@ -36,16 +34,12 @@ This folder contains notebooks for my main course project.
 ### 4. `README.md`  
 This file, which provides an overview of the repository.
 
----
-
 ## Purpose  
 
 This repository is for personal use as I navigate the MACS30100 course. It includes:  
 - Lecture materials and exercises.  
 - Assignments and quizzes for self-assessment.  
 - A hands-on project to apply course concepts.
-
----
 
 ## Notes  
 
